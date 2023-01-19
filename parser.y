@@ -1,5 +1,5 @@
 /*** Author: Tamer Elsawaf ***/
-/*** CS 530 Systems Programming /  STATEMENT PARSER Project 3 */
+/*** Systems Programming /  STATEMENT PARSER Project 3 */
 %{
   void yyerror(const char *s);
   #include <stdio.h>
